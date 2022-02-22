@@ -1,0 +1,20 @@
+use('bibliomean')
+
+db.roles.find()
+
+// db.roles.insertOne({
+//   name:'Juan',
+//   age:23
+// })
+// db.roles.insertOne({
+//   name:'Juan',
+//   age:23
+// })
+// db.roles.insertOne({
+//   name:'Juan',
+//   age:23
+// })
+// db.roles.insertOne({
+//   name:'Juan',
+//   age:23
+// })
